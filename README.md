@@ -1,4 +1,4 @@
-<h1 align="center">Elias</h1>
+<h1 align="center">Elias De Windt</h1>
 
 ## What I'm up to:
 - Currently Studying **Compiler Design** *(Lexical Analysis, Parsing, AST generation, Assembly, and Assemblers)*
