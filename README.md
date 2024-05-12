@@ -22,12 +22,6 @@ https://github.com/projectxiel
 https://www.youtube.com/@ProjectXiel
 
 ## Stats:
-<a href="https://github.com/edewindt">
-  <img style="height:180px;" src="https://github-readme-stats-angelmaneuver.vercel.app/api?username=edewindt&theme=iceberg&show_icons=true&cache_seconds=86400" />
-</a>
-<a href="https://github.com/edewindt">
-  <img style="height:180px;" src="https://github-readme-stats-angelmaneuver.vercel.app/api/top-langs/?username=edewindt&theme=iceberg&layout=compact" />
-</a>
 
 ```
 Men must live and create. Live to the point of tears.  -Albert Camus
